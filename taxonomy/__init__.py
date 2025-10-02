@@ -15,7 +15,7 @@ search, etc. does not need to understand the break with hierarchy.
 
 """
 from .definitions import CATEGORIES, CATEGORIES_ACTIVE, ARCHIVES, \
-    ARCHIVES_ACTIVE, ARCHIVES_SUBSUMED, CATEGORY_ALIASES
+    ARCHIVES_ACTIVE, ARCHIVES_SUBSUMED, CATEGORY_ALIASES, GROUPS
 from .category import Category, Archive, Group
 
 
